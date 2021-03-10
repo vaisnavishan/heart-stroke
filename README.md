@@ -1,4 +1,4 @@
-This is an informative web app regarding hypertension
+This is an informative web app regarding hypertension. This also includes a chatbot!
 
 
 
