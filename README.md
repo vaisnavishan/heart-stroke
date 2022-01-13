@@ -1,9 +1,18 @@
 This is an informative web app regarding hypertension. This also includes a chatbot!
+## Table of contents
+* [Demo](#demo)
+* [About](#about)
+* [Available Scripts](#available-scripts)
 
-
-
-
-
+## General info
+This project is simple Lorem ipsum dolor generator.
+	
+## Technologies
+Project is created with:
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
+	
 
 ## Available Scripts
 
