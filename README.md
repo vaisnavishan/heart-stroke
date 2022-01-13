@@ -1,5 +1,6 @@
 ## Table of contents
 * [Demo](#demo)
+	* 
 * [About](#about)
 * [Available Scripts](#available-scripts)
 
@@ -11,7 +12,7 @@ This project is an informative web app regarding hypertension. This also include
 ![image](https://user-images.githubusercontent.com/77128514/149418825-ea375760-31cf-46fc-891b-ad560674ce45.png)
 ### Healthy Eating Page
 ![image](https://user-images.githubusercontent.com/77128514/149419060-25cbe448-1560-4d14-9cbd-658318bc5d75.png)
-![image](https://user-images.githubusercontent.com/77128514/149419015-0601788d-72c2-4253-8a22-a9faa29dd6bb.png)
+![image](https://user-images.githubusercontent.com/77128514/149419503-365aea18-18ed-4898-a919-c57abe939fa0.png)
 
 ### Physical Activity Page
 ![image](https://user-images.githubusercontent.com/77128514/149419121-5e869956-5932-4793-b178-3d9a6c83f687.png)
