@@ -5,7 +5,7 @@
 
 ## Demo
 This project is an informative web app regarding hypertension. This also includes a chatbot!.
-## Landing Page:
+### Landing Page:
 ![image](https://user-images.githubusercontent.com/77128514/149418422-18d9c2fe-8e6d-44bd-8853-a162f7a399c8.png)
 
 	
