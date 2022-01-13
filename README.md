@@ -1,6 +1,5 @@
 ## Table of contents
 * [Demo](#demo)
-	* 
 * [About](#about)
 * [Available Scripts](#available-scripts)
 
@@ -21,15 +20,12 @@ This project is an informative web app regarding hypertension. This also include
 ![image](https://user-images.githubusercontent.com/77128514/149419349-d47e8e52-ef32-470a-a0a0-cd4a7f6dd7cf.png)
 ![image](https://user-images.githubusercontent.com/77128514/149419311-2f2090c7-e141-47ad-bdf6-b8b1381eb0af.png)
 
-
-
-
 	
 ## About
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* HTML5
+* CSS3
+* JavaScript (React.js)
 	
 
 ## Available Scripts
@@ -62,4 +58,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+## Next Steps:
+In the future, we'd like to:
+* 
+* 
+* 
 
