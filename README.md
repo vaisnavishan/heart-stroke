@@ -10,7 +10,17 @@ This project is an informative web app regarding hypertension. This also include
 ### Chatbot Feature
 ![image](https://user-images.githubusercontent.com/77128514/149418825-ea375760-31cf-46fc-891b-ad560674ce45.png)
 ### Healthy Eating Page
-![image](https://user-images.githubusercontent.com/77128514/149418923-a1cb7f35-fb2c-4a47-b153-c474a6427ded.png)
+![image](https://user-images.githubusercontent.com/77128514/149419060-25cbe448-1560-4d14-9cbd-658318bc5d75.png)
+![image](https://user-images.githubusercontent.com/77128514/149419015-0601788d-72c2-4253-8a22-a9faa29dd6bb.png)
+
+### Physical Activity Page
+![image](https://user-images.githubusercontent.com/77128514/149419121-5e869956-5932-4793-b178-3d9a6c83f687.png)
+
+### Stress Management Page
+![image](https://user-images.githubusercontent.com/77128514/149419349-d47e8e52-ef32-470a-a0a0-cd4a7f6dd7cf.png)
+![image](https://user-images.githubusercontent.com/77128514/149419311-2f2090c7-e141-47ad-bdf6-b8b1381eb0af.png)
+
+
 
 
 	
