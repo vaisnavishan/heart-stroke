@@ -60,7 +60,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-## Next Steps:
+## Next Steps
 In the future, we'd like to:
 * Clean up our subpages and incorporate more visuals and possible animations to decrease the amount of text present.
 * Elevate our chatbot to answer any question the user may have, not solely the automated ones we have programmed.
